@@ -1,0 +1,354 @@
+Candidate Name,Job,Requisition ID,Department,Current Status,Stage,Interview,Scheduled,Submitted,Interviewer,Outcome
+Pedro Zenone,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Take-Home Presentation w/ Emily,08/26/2024,09/02/2024,Adi Kedia,Yes
+Joaquin Tempelsman,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Panel Team Interview,Take-Home Presentation w/ Emily,08/30/2024,09/03/2024,Adi Kedia,Yes
+Gastón Ortiz,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Take-Home Presentation w/ Emily,09/11/2024,09/17/2024,Adi Kedia,No
+Malena Maffei,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Panel Team Interview,Take-Home Presentation w/ Emily,09/20/2024,09/20/2024,Adi Kedia,Strong Yes
+Matías Miranda,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Take-Home Presentation w/ Emily,09/23/2024,09/24/2024,Adi Kedia,Yes
+Rodrigo Mauriño,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Active,Panel Team Interview,Take-Home Presentation w/ Emily,09/26/2024,09/27/2024,Adi Kedia,Yes
+Nicolas Hertzulis,Senior Software Engineer (Integrity) - LATAM,Evergreen,TechOps,Rejected,Assessment,Take Home Test,,09/24/2024,Alain Nguyen,No
+Joaquin Tempelsman,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,1st Round Interview,Technical Screen,08/08/2024,08/08/2024,Alejandro Attento,Strong Yes
+Francisco Nievas,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,1st Round Interview,Technical Screen,08/12/2024,08/12/2024,Alejandro Attento,Yes
+Fernando Martín Vidal,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,1st Round Interview,Technical Screen,08/28/2024,08/28/2024,Alejandro Attento,Yes
+Matías Miranda,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,1st Round Interview,Technical Screen,09/09/2024,09/09/2024,Alejandro Attento,Strong Yes
+Alexis Zecharies,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,1st Round Interview,Technical Screen,09/17/2024,09/17/2024,Alejandro Attento,No
+Nicolás Keklikian,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,1st Round Interview,Technical Screen,09/18/2024,09/18/2024,Alejandro Attento,Yes
+Facundo Gilles,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Technical Phone Screen,Tech screen,,08/02/2024,Alejandro Attento,Yes
+Francisco Grings,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,1st Round Interview,Technical Screen,,08/07/2024,Alejandro Attento,No
+Bruno Baravalle,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Rejected,Panel Interview,60' Technical Interview with Alex Miley,07/01/2024,07/01/2024,Alex Miley,Yes
+Gustavo Alberto Bersano,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Hired,Panel Interview,60' Technical Interview with Alex Miley,07/02/2024,07/02/2024,Alex Miley,Strong Yes
+Ariel Gianatiempo,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Rejected,Panel Interview,60' Technical Interview with Alex Miley,07/08/2024,07/08/2024,Alex Miley,Strong Yes
+Guillermo Rojas,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Systems Design / Data Pipeline + Data Warehouse - Andrew Destefano AND (Gianny OR Data Lacoste) - Include Coderpad,08/05/2024,08/06/2024,Andrew De Stefano,No
+Tomás Bilal Iaquinta,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Systems Design / Data Pipeline + Data Warehouse - Andrew Destefano AND (Gianny OR Data Lacoste) - Include Coderpad,08/22/2024,08/22/2024,Andrew De Stefano,Yes
+Nicolás Fernández,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Systems Design / Data Pipeline + Data Warehouse - Andrew Destefano AND (Gianny OR Data Lacoste) - Include Coderpad,09/19/2024,09/23/2024,Andrew De Stefano,No
+Santiago Echevarria,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Hired,Panel Team Interview,Systems Design / Data Pipeline + Data Warehouse - Andrew Destefano AND (Gianny OR Data Lacoste) - Include Coderpad,09/27/2024,09/27/2024,Andrew De Stefano,Yes
+Santiago Amena,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Hiring Manager Screen,Hiring Manager Screen,08/15/2024,08/15/2024,Anurag Ramachandra,Strong Yes
+Facundo Gilles,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Hiring Manager Screen,Hiring Manager Screen,08/15/2024,08/15/2024,Anurag Ramachandra,No
+Francisco Nievas,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Hiring Manager Screen,Hiring Manager Screen,08/15/2024,08/15/2024,Anurag Ramachandra,No
+Joaquin Tempelsman,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Hiring Manager Screen,Hiring Manager Screen,08/15/2024,08/15/2024,Anurag Ramachandra,Strong Yes
+Pedro Zenone,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Hiring Manager Screen,Hiring Manager Screen,08/16/2024,08/16/2024,Anurag Ramachandra,Yes
+Gastón Ortiz,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Hiring Manager Screen,Hiring Manager Screen,08/27/2024,08/27/2024,Anurag Ramachandra,Strong Yes
+Julieta Bergamasco,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Hiring Manager Screen,Hiring Manager Screen,08/28/2024,08/28/2024,Anurag Ramachandra,Yes
+Fernando Martín Vidal,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Hiring Manager Screen,Hiring Manager Screen,09/04/2024,09/05/2024,Anurag Ramachandra,No
+Joaquin Tempelsman,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Final Interview,Final Interview,09/10/2024,09/10/2024,Anurag Ramachandra,Yes
+Malena Maffei,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Hiring Manager Screen,Hiring Manager Screen,09/11/2024,09/11/2024,Anurag Ramachandra,Yes
+Matías Miranda,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Hiring Manager Screen,Hiring Manager Screen,09/12/2024,09/12/2024,Anurag Ramachandra,Yes
+Rodrigo Mauriño,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Active,Hiring Manager Screen,Hiring Manager Screen,09/16/2024,09/16/2024,Anurag Ramachandra,Yes
+Nicolás Keklikian,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Hiring Manager Screen,Hiring Manager Screen,09/23/2024,09/23/2024,Anurag Ramachandra,No
+Malena Maffei,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Final Interview,Final Interview,09/24/2024,09/24/2024,Anurag Ramachandra,Strong Yes
+Darwis Narvaez,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,60 min - Coding Interview,07/08/2024,07/08/2024,Ben Rodarte,Yes
+Mauro Cipollone,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,60 min - Coding Interview,08/02/2024,08/02/2024,Ben Rodarte,Strong Yes
+Lucia Aberastury,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,60 min - Systems Design,08/05/2024,08/05/2024,Ben Rodarte,Yes
+Daniel Julian,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,60 min - Systems Design,08/28/2024,08/28/2024,Ben Rodarte,Yes
+Mauro Cipollone,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,07/29/2024,Ben Rodarte,Strong Yes
+Sebastian Iglesias,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,07/29/2024,Ben Rodarte,No
+Nicolas Hertzulis,Senior Software Engineer (Integrity) - LATAM,Evergreen,TechOps,Rejected,1st Round Interview,Tech Screen,09/12/2024,09/12/2024,Brian Gebel,Yes
+Darwis Narvaez,Software Engineer (Integrity) - LATAM,BHC3290,TechOps,Active,1st Round Interview,Tech Screen,09/20/2024,09/20/2024,Brian Gebel,Yes
+Gabriel Muryan,Senior Software Engineer (Integrity) - LATAM,Evergreen,TechOps,Rejected,1st Round Interview,Tech Screen,09/24/2024,09/24/2024,Brian Gebel,Yes
+Axel Lijdens,Staff  Software Engineer (Full Stack),LZD2418,Engineering - Classy,Rejected,Recruiter Screen,Recruiter Screen,,07/01/2024,Carolina Rodriguez Diz (Contractor),Yes
+Rodrigo Ovalle,Staff  Software Engineer (Full Stack),LZD2418,Engineering - Classy,Rejected,Recruiter Screen,Recruiter Screen,07/09/2024,07/01/2024,Carolina Rodriguez Diz (Contractor),Yes
+Cristian Pelegrino,Staff  Software Engineer (Full Stack),LZD2418,Engineering - Classy,Rejected,Recruiter Screen,Recruiter Screen,07/02/2024,07/01/2024,Carolina Rodriguez Diz (Contractor),Yes
+Sebastián Borrajo☁️,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/08/2024,Carolina Rodriguez Diz (Contractor),Yes
+Joaquin Candalaft,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/08/2024,Carolina Rodriguez Diz (Contractor),Yes
+Pablo Diaz,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/08/2024,Carolina Rodriguez Diz (Contractor),Yes
+Ivan Nicolás Puszkiel,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/08/2024,Carolina Rodriguez Diz (Contractor),Yes
+Mauro Cipollone,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/12/2024,Carolina Rodriguez Diz (Contractor),Yes
+Leandro Dragani,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/15/2024,Carolina Rodriguez Diz (Contractor),Yes
+Lucas Quinteiro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Recruiter Screen,Recruiter Screen (Phone Interview),,07/15/2024,Carolina Rodriguez Diz (Contractor),Yes
+Lucia Aberastury,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/24/2024,Carolina Rodriguez Diz (Contractor),Yes
+Juan Manuel Alvarez,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/26/2024,Carolina Rodriguez Diz (Contractor),Yes
+Sebastian Iglesias,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/26/2024,Carolina Rodriguez Diz (Contractor),Yes
+gerardo garcia,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/02/2024,Carolina Rodriguez Diz (Contractor),Yes
+Antonio Kang,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/02/2024,Carolina Rodriguez Diz (Contractor),Yes
+Daniel Julian,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/12/2024,Carolina Rodriguez Diz (Contractor),Yes
+Emiliano Belvedere,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/13/2024,Carolina Rodriguez Diz (Contractor),Yes
+Federico Portillo,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/15/2024,Carolina Rodriguez Diz (Contractor),Yes
+Mariano Barragán,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/21/2024,Carolina Rodriguez Diz (Contractor),Yes
+Sonia Stedile,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/27/2024,Carolina Rodriguez Diz (Contractor),Yes
+Nicolas Hertzulis,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/03/2024,Carolina Rodriguez Diz (Contractor),Yes
+Mauro Eiroa,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/11/2024,Carolina Rodriguez Diz (Contractor),Yes
+Mariano Garrote,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/11/2024,Carolina Rodriguez Diz (Contractor),Yes
+Santiago Santana,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Active,Recruiter Screen,Recruiter Screen (Phone Interview),,09/11/2024,Carolina Rodriguez Diz (Contractor),Yes
+Johana Anez,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Active,Recruiter Screen,Recruiter Screen (Phone Interview),,09/19/2024,Carolina Rodriguez Diz (Contractor),Yes
+Sebastian Reh,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Active,Recruiter Screen,Recruiter Screen (Phone Interview),,09/19/2024,Carolina Rodriguez Diz (Contractor),Yes
+Manuel Zapata,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/19/2024,Carolina Rodriguez Diz (Contractor),Yes
+Agustin Castro,Senior Software Engineer (Integrity) - LATAM,Evergreen,TechOps,Active,Recruiter Screen,Recruiter Screen (Phone Interview),,09/20/2024,Carolina Rodriguez Diz (Contractor),Yes
+Gabriel Muryan,Senior Software Engineer (Integrity) - LATAM,Evergreen,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/20/2024,Carolina Rodriguez Diz (Contractor),Yes
+Matias Nahuel Fuentes,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Active,Recruiter Screen,Recruiter Screen (Phone Interview),,09/26/2024,Carolina Rodriguez Diz (Contractor),Yes
+Facundo Barcelo,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Active,Recruiter Screen,Recruiter Screen (Phone Interview),,09/30/2024,Carolina Rodriguez Diz (Contractor),Yes
+Agustin Enriquez,Senior Software Engineer (Integrity) - LATAM,Evergreen,TechOps,Active,Recruiter Screen,Recruiter Screen (Phone Interview),,09/30/2024,Carolina Rodriguez Diz (Contractor),Yes
+Gustavo Alberto Bersano,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Hired,Behavioral Interview,Behavioral Interview,07/08/2024,07/08/2024,Casey Leath,No
+Jorge Manzano,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Coding Session,07/01/2024,07/01/2024,Cesar Gutierrez Cervantes,No
+Santiago Canosa,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Panel Team Interview,Coding Session,07/09/2024,07/09/2024,Cesar Gutierrez Cervantes,Yes
+Joaquin Candalaft,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Coding Session,07/23/2024,07/23/2024,Cesar Gutierrez Cervantes,No
+Ivan Nicolás Puszkiel,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Coding Session,07/29/2024,07/29/2024,Cesar Gutierrez Cervantes,Strong Yes
+Lucas Quinteiro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Panel Team Interview,Coding Session,08/07/2024,08/07/2024,Cesar Gutierrez Cervantes,Strong Yes
+Leandro Dragani,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Coding Session,08/19/2024,08/19/2024,Cesar Gutierrez Cervantes,Yes
+Juan Manuel Alvarez,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Coding Session,08/20/2024,08/20/2024,Cesar Gutierrez Cervantes,Yes
+Santiago Navarro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Coding Session,08/21/2024,08/21/2024,Cesar Gutierrez Cervantes,No
+Emiliano Belvedere,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Coding Session,08/27/2024,08/27/2024,Cesar Gutierrez Cervantes,No
+Adrian Escat,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,07/01/2024,Cesar Gutierrez Cervantes,Yes
+Santiago Canosa,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Assessment,Take Home Test,,07/03/2024,Cesar Gutierrez Cervantes,Yes
+Joaquin Candalaft,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,07/09/2024,Cesar Gutierrez Cervantes,Yes
+Pablo Sagastizabal,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,07/11/2024,Cesar Gutierrez Cervantes,No
+Ivan Nicolás Puszkiel,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,07/22/2024,Cesar Gutierrez Cervantes,Yes
+Lucas Quinteiro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Assessment,Take Home Test,,07/29/2024,Cesar Gutierrez Cervantes,Yes
+Leandro Dragani,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,08/08/2024,Cesar Gutierrez Cervantes,Yes
+Jonas Millan,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,08/08/2024,Cesar Gutierrez Cervantes,No
+Juan Manuel Alvarez,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,08/12/2024,Cesar Gutierrez Cervantes,Yes
+Juan Manuel Alvarez,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,08/12/2024,Cesar Gutierrez Cervantes,Yes
+Santiago Navarro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,08/13/2024,Cesar Gutierrez Cervantes,Yes
+Emiliano Belvedere,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,08/19/2024,Cesar Gutierrez Cervantes,Yes
+Tomás Chernov,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,08/22/2024,Cesar Gutierrez Cervantes,No
+Martín Mármol,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,08/27/2024,Cesar Gutierrez Cervantes,Yes
+Santiago Santana,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Active,Assessment,Take Home Test,,09/24/2024,Cesar Gutierrez Cervantes,Yes
+Nicolas Cedric Poore,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,09/25/2024,Cesar Gutierrez Cervantes,No
+Ricardo Yamil Succar,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,1st Round Interview,Hiring Manager Technical Screen,07/02/2024,07/02/2024,Chad Prey,No
+Santiago Roman,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Hired,1st Round Interview,Hiring Manager Technical Screen,07/18/2024,07/18/2024,Chad Prey,Yes
+Sebastian Borrajo,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/19/2024,07/19/2024,Chad Prey,No
+Maria Taliberti,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,1st Round Interview,Hiring Manager Technical Screen,07/25/2024,07/25/2024,Chad Prey,Definitely Not
+Daniel Bianco,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,1st Round Interview,Hiring Manager Technical Screen,07/30/2024,07/30/2024,Chad Prey,No
+Leandro Kollenberger,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,1st Round Interview,Hiring Manager Technical Screen,07/30/2024,07/30/2024,Chad Prey,Yes
+Santiago Roman,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Hired,Panel Team Interview,Panel Wrap Up,08/02/2024,08/02/2024,Chad Prey,Strong Yes
+Darwis Narvaez,Software Engineer (Integrity) - LATAM,BHC3290,TechOps,Active,Panel Team Interview,45 min - Product/TeamFit,09/25/2024,09/25/2024,Chuck Voelkel,Yes
+Santiago Roman,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Hired,Panel Team Interview,Product/Culture Interview,08/02/2024,08/02/2024,Cory Brin,Strong Yes
+Fran Traversaro,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,1st Round Interview,HM Screen,07/12/2024,07/12/2024,Dave Sherfesee,No
+Pedro Zenone,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,1st Round Interview,HM Screen,07/18/2024,07/18/2024,Dave Sherfesee,Yes
+Alexis Zecharies,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,1st Round Interview,HM Screen,07/23/2024,07/23/2024,Dave Sherfesee,Yes
+Guillermo Rojas,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Algo/CS Fundamentals - (Austin Smith OR Nishtha B) AND Jonathan Santos - Include Coderpad,07/31/2024,07/31/2024,Giancarlo Perrone,Yes
+Nicolás Fernández,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Algo/CS Fundamentals - (Austin Smith OR Nishtha B) AND Jonathan Santos - Include Coderpad,09/18/2024,09/18/2024,Giancarlo Perrone,Yes
+Santiago Echevarria,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Hired,Panel Team Interview,Algo/CS Fundamentals - (Austin Smith OR Nishtha B) AND Jonathan Santos - Include Coderpad,09/23/2024,09/23/2024,Giancarlo Perrone,Yes
+Lucas Mariano Contreras,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Algo/CS Fundamentals - (Austin Smith OR Nishtha B) AND Jonathan Santos - Include Coderpad,09/30/2024,09/30/2024,Giancarlo Perrone,No
+Julieta Bergamasco,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,1st Round Interview,Technical Screen,08/12/2024,08/12/2024,Ignacio Iglesias,Yes
+Pedro Zenone,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,1st Round Interview,Technical Screen,08/12/2024,08/12/2024,Ignacio Iglesias,Yes
+Gastón Ortiz,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,1st Round Interview,Technical Screen,08/13/2024,08/13/2024,Ignacio Iglesias,Yes
+Malena Maffei,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,1st Round Interview,Technical Screen,09/09/2024,09/09/2024,Ignacio Iglesias,Strong Yes
+Rodrigo Mauriño,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Active,1st Round Interview,Technical Screen,09/11/2024,09/11/2024,Ignacio Iglesias,Strong Yes
+Santiago Amena,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,1st Round Interview,Technical Screen,,08/07/2024,Ignacio Iglesias,Yes
+Santiago Canosa,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Panel Team Interview,Product Session,07/10/2024,07/10/2024,Jesse Lusa,No
+Joaquin Candalaft,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Product Session,07/24/2024,07/24/2024,Jesse Lusa,No
+Ivan Nicolás Puszkiel,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Product Session,08/02/2024,08/02/2024,Jesse Lusa,No
+Lucas Quinteiro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Panel Team Interview,Product Session,08/08/2024,08/08/2024,Jesse Lusa,Strong Yes
+Leandro Dragani,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Product Session,08/20/2024,08/20/2024,Jesse Lusa,Definitely Not
+Emiliano Belvedere,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Product Session,08/26/2024,08/26/2024,Jesse Lusa,Definitely Not
+Daniel Julian,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,45 min - Product/TeamFit,09/04/2024,09/05/2024,Jesse Lusa,No
+Joaquin Tempelsman,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Panel Team Interview,Statistics w/ John Baggaley,08/27/2024,08/27/2024,John Baggaley,Yes
+Pedro Zenone,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Statistics w/ John Baggaley,08/27/2024,08/27/2024,John Baggaley,Yes
+Santiago Amena,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Statistics w/ John Baggaley,08/29/2024,08/29/2024,John Baggaley,Yes
+Gastón Ortiz,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Statistics w/ John Baggaley,09/11/2024,09/11/2024,John Baggaley,Yes
+Malena Maffei,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Panel Team Interview,Statistics w/ John Baggaley,09/17/2024,09/17/2024,John Baggaley,Strong Yes
+Matías Miranda,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Statistics w/ John Baggaley,09/20/2024,09/23/2024,John Baggaley,Yes
+Rodrigo Mauriño,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Active,Panel Team Interview,Statistics w/ John Baggaley,09/24/2024,09/24/2024,John Baggaley,Yes
+Guillermo Rojas,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Recap (John Jin),08/05/2024,08/05/2024,John Jin,No
+Tomás Bilal Iaquinta,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Recap (John Jin),08/26/2024,08/27/2024,John Jin,Yes
+Nicolás Fernández,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Recap (John Jin),09/19/2024,09/19/2024,John Jin,Yes
+Santiago Echevarria,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Hired,Panel Team Interview,Recap (John Jin),09/26/2024,09/26/2024,John Jin,Yes
+Guillermo Rojas,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Systems Design / Data Pipeline + Data Warehouse - Andrew Destefano AND (Gianny OR Data Lacoste) - Include Coderpad,08/05/2024,08/05/2024,Jonathan Santos,No
+Tomás Bilal Iaquinta,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),08/16/2024,08/16/2024,Jonathan Santos,Yes
+José Luis Baldivieso,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),08/19/2024,08/19/2024,Jonathan Santos,No
+Salvador Ribolzi,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),08/19/2024,08/19/2024,Jonathan Santos,Yes
+Santiago Canosa,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Panel Team Interview,Product Session,07/10/2024,07/15/2024,Josh London,No
+Ivan Nicolás Puszkiel,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Product Session,08/02/2024,08/05/2024,Josh London,Definitely Not
+Lucas Quinteiro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Panel Team Interview,Product Session,08/08/2024,08/08/2024,Josh London,Strong Yes
+Juan Manuel Alvarez,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Product Session,08/16/2024,08/16/2024,Josh London,Yes
+Leandro Dragani,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Product Session,08/20/2024,08/20/2024,Josh London,Definitely Not
+Santiago Roman,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Hired,Panel Team Interview,Technical #1,08/01/2024,08/01/2024,Juan Pablo Gonzalez,Yes
+Santiago Roman,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Hired,Panel Team Interview,Technical #2,08/01/2024,08/01/2024,Justin Ricci,Strong Yes
+Darwis Narvaez,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,60 min - Coding Interview,07/08/2024,07/08/2024,Kyle O'Connor,Yes
+Lucia Aberastury,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,60 min - Coding Interview,08/01/2024,08/01/2024,Kyle O'Connor,Strong Yes
+Daniel Julian,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,60 min - Coding Interview,08/27/2024,08/27/2024,Kyle O'Connor,Yes
+Mauro Cipollone,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,07/29/2024,Kyle O'Connor,Yes
+Daniel Julian,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,08/21/2024,Kyle O'Connor,Yes
+Ernesto Borio,Staff  Software Engineer (Full Stack),LZD2418,Engineering - Classy,Hired,Panel Team Interview,Panel Interview - Lerita,07/12/2024,07/12/2024,Lerita Garner,Yes
+Jorge Manzano,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Coding Session,07/01/2024,07/01/2024,Luis DeLeon,Yes
+Santiago Canosa,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Panel Team Interview,Coding Session,07/09/2024,07/09/2024,Luis DeLeon,Yes
+Adrian Escat,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,06/19/2024,07/01/2024,Luis DeLeon,No
+Santiago Canosa,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Assessment,Take Home Test,,07/03/2024,Luis DeLeon,Yes
+Joaquin Candalaft,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,07/11/2024,Luis DeLeon,No
+Pablo Sagastizabal,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,07/11/2024,Luis DeLeon,No
+Santiago Canosa,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,1st Round Interview,Hiring Manager Screen,07/01/2024,07/01/2024,Lyle Takacs,Yes
+Pablo Sagastizabal,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,07/03/2024,07/03/2024,Lyle Takacs,Yes
+Darwis Narvaez,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,30 min - Closing interview,07/16/2024,07/16/2024,Lyle Takacs,No
+Ivan Nicolás Puszkiel,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,07/17/2024,07/17/2024,Lyle Takacs,Yes
+Joaquin Candalaft,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,07/18/2024,07/18/2024,Lyle Takacs,Strong Yes
+Lucas Quinteiro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,1st Round Interview,Hiring Manager Screen,07/23/2024,07/24/2024,Lyle Takacs,Strong Yes
+Sebastian Iglesias,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,07/25/2024,07/25/2024,Lyle Takacs,Strong Yes
+Leandro Dragani,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,07/29/2024,07/29/2024,Lyle Takacs,Yes
+Lucia Aberastury,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,07/30/2024,07/30/2024,Lyle Takacs,Strong Yes
+Jonas Millan,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,08/01/2024,08/01/2024,Lyle Takacs,Yes
+Juan Manuel Alvarez,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,08/05/2024,08/05/2024,Lyle Takacs,Strong Yes
+Mauro Cipollone,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,30 min - Closing interview,08/05/2024,08/05/2024,Lyle Takacs,Yes
+Antonio Kang,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,08/08/2024,08/08/2024,Lyle Takacs,Yes
+Marcos Khabie,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,08/08/2024,08/08/2024,Lyle Takacs,Strong Yes
+Santiago Navarro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,08/09/2024,08/09/2024,Lyle Takacs,Yes
+gerardo garcia,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,08/12/2024,08/12/2024,Lyle Takacs,Yes
+Daniel Julian,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,08/14/2024,08/14/2024,Lyle Takacs,Strong Yes
+Emiliano Belvedere,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,08/15/2024,08/15/2024,Lyle Takacs,Yes
+Tomás Chernov,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,08/20/2024,08/20/2024,Lyle Takacs,Yes
+Federico Portillo,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,08/20/2024,08/20/2024,Lyle Takacs,Yes
+Martín Mármol,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,08/21/2024,08/21/2024,Lyle Takacs,Strong Yes
+Mariano Barragán,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,08/29/2024,08/29/2024,Lyle Takacs,Yes
+Nicolas Hertzulis,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,09/05/2024,09/05/2024,Lyle Takacs,No
+Mauro Eiroa,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,09/13/2024,09/13/2024,Lyle Takacs,Yes
+Santiago Santana,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Active,1st Round Interview,Hiring Manager Screen,09/19/2024,09/19/2024,Lyle Takacs,Yes
+Nicolas Cedric Poore,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,09/20/2024,09/20/2024,Lyle Takacs,Yes
+Sebastian Reh,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Active,1st Round Interview,Tech Screen,09/24/2024,09/24/2024,Lyle Takacs,Yes
+Manuel Zapata,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,1st Round Interview,Hiring Manager Screen,09/25/2024,09/25/2024,Lyle Takacs,Strong Yes
+Johana Anez,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Active,1st Round Interview,Tech Screen,09/26/2024,09/26/2024,Lyle Takacs,Yes
+Kevin Ruhl,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Closing Call,Closing Call,,07/01/2024,Lyle Takacs,No
+Bruno Baravalle,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Rejected,Panel Interview,60' Live Coding Interview with Trisha Langlois and Marcos Ramirez,07/01/2024,07/01/2024,Marcos Ramirez,No
+Gustavo Alberto Bersano,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Hired,Panel Interview,60' Live Coding Interview with Trisha Langlois and Marcos Ramirez,07/01/2024,07/01/2024,Marcos Ramirez,Yes
+Ariel Gianatiempo,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Rejected,Panel Interview,60' Live Coding Interview with Trisha Langlois and Marcos Ramirez,07/09/2024,07/09/2024,Marcos Ramirez,No
+Guillermo Rojas,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/01/2024,Maria Arevalo (Contractor),Yes
+Javier Mermet,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,In Review with Recruiter,Other,,07/04/2024,Maria Arevalo (Contractor),Yes
+Fran Traversaro,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/05/2024,Maria Arevalo (Contractor),Yes
+Pedro Zenone,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/11/2024,Maria Arevalo (Contractor),Yes
+Florencia Federico,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/12/2024,Maria Arevalo (Contractor),Yes
+Juan Maximiliano Rodríguez Alvarez,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/12/2024,Maria Arevalo (Contractor),Yes
+Guillermo Lissa,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/17/2024,Maria Arevalo (Contractor),No
+Alexis Zecharies,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/17/2024,Maria Arevalo (Contractor),Yes
+Santiago Amena,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/23/2024,Maria Arevalo (Contractor),Yes
+Facundo Gilles,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/23/2024,Maria Arevalo (Contractor),Yes
+Francisco Grings,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/23/2024,Maria Arevalo (Contractor),Yes
+Martin Caravario,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/26/2024,Maria Arevalo (Contractor),Yes
+Mariano Falcón,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/26/2024,Maria Arevalo (Contractor),Yes
+Tomas Marcos,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/26/2024,Maria Arevalo (Contractor),Yes
+Jonathan Raad,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/26/2024,Maria Arevalo (Contractor),Yes
+Javier Castelletto,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/29/2024,Maria Arevalo (Contractor),Yes
+Micaela J.,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/29/2024,Maria Arevalo (Contractor),Yes
+Andres Rios,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/30/2024,Maria Arevalo (Contractor),No
+Julieta Bergamasco,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/31/2024,Maria Arevalo (Contractor),Yes
+Walter M.,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/31/2024,Maria Arevalo (Contractor),No
+Sofía Nazarena Di Buccio,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,07/31/2024,Maria Arevalo (Contractor),Yes
+Joaquin Tempelsman,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Recruiter Screen,Recruiter Screen (Phone Interview),,07/31/2024,Maria Arevalo (Contractor),Yes
+Juan Agustin Vago,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/07/2024,Maria Arevalo (Contractor),Yes
+Tomás Bilal Iaquinta,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/07/2024,Maria Arevalo (Contractor),Yes
+Salvador Ribolzi,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/07/2024,Maria Arevalo (Contractor),Yes
+Pedro Zenone,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/07/2024,Maria Arevalo (Contractor),Yes
+Paulo Zuliani,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/07/2024,Maria Arevalo (Contractor),Yes
+Francisco Nievas,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/08/2024,Maria Arevalo (Contractor),Yes
+Gastón Ortiz,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/08/2024,Maria Arevalo (Contractor),Yes
+Maria Eugenia Perotti,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/08/2024,Maria Arevalo (Contractor),Yes
+José Luis Baldivieso,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/13/2024,Maria Arevalo (Contractor),Yes
+Pablo Alcain,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/23/2024,Maria Arevalo (Contractor),Yes
+Matias Emmanuel Debard,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/23/2024,Maria Arevalo (Contractor),Yes
+Leandro Ferrado,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Active,Recruiter Screen,Recruiter Screen (Phone Interview),,08/30/2024,Maria Arevalo (Contractor),Yes
+Matías Marenchino,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/30/2024,Maria Arevalo (Contractor),Yes
+Nestor Navarro,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,08/30/2024,Maria Arevalo (Contractor),Yes
+Facundo Manuel Morel,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/03/2024,Maria Arevalo (Contractor),Yes
+Rodrigo A.,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/05/2024,Maria Arevalo (Contractor),Yes
+Guillermo Bernabó,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/05/2024,Maria Arevalo (Contractor),Yes
+Mario Mauvecin,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/05/2024,Maria Arevalo (Contractor),Yes
+Mario Mauvecin,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/05/2024,Maria Arevalo (Contractor),Yes
+Matías Miranda,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/05/2024,Maria Arevalo (Contractor),Yes
+Hernán Berinsky,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/06/2024,Maria Arevalo (Contractor),Yes
+Hernán Berinsky,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/06/2024,Maria Arevalo (Contractor),Yes
+Malena Maffei,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Recruiter Screen,Recruiter Screen (Phone Interview),,09/06/2024,Maria Arevalo (Contractor),Yes
+Rodrigo Mauriño,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Active,Recruiter Screen,Recruiter Screen (Phone Interview),,09/06/2024,Maria Arevalo (Contractor),Yes
+Rodrigo Mauriño,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/06/2024,Maria Arevalo (Contractor),Yes
+Santiago Echevarria,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Hired,Recruiter Screen,Recruiter Screen (Phone Interview),,09/09/2024,Maria Arevalo (Contractor),Yes
+Fernando Collová,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/10/2024,Maria Arevalo (Contractor),Yes
+Nicolás Fernández,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/10/2024,Maria Arevalo (Contractor),Yes
+Sergio Otsubo,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/10/2024,Maria Arevalo (Contractor),Yes
+Nicolás Keklikian,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/13/2024,Maria Arevalo (Contractor),Yes
+Emiliano Lo Sasso,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/13/2024,Maria Arevalo (Contractor),Yes
+Alexis Zecharies,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/13/2024,Maria Arevalo (Contractor),Yes
+Juan Miguel Ferraro,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Active,Recruiter Screen,Recruiter Screen (Phone Interview),,09/24/2024,Maria Arevalo (Contractor),Yes
+Lucas Sedeño,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Active,Recruiter Screen,Recruiter Screen (Phone Interview),,09/24/2024,Maria Arevalo (Contractor),Yes
+Eduardo Cusa,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),,09/30/2024,Maria Arevalo (Contractor),Yes
+Darwis Narvaez,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,60 min - Systems Design,07/10/2024,07/10/2024,Mark Vaughn,No
+Santiago Roman,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Hired,Panel Team Interview,Technical #1,08/01/2024,08/01/2024,Mark Vaughn,Strong Yes
+Mauro Cipollone,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,60 min - Systems Design,08/05/2024,08/05/2024,Mark Vaughn,No
+Santiago Echevarria,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Hired,Panel Team Interview,Systems Design / Data Pipeline + Data Warehouse - Andrew Destefano AND (Gianny OR Data Lacoste) - Include Coderpad,09/27/2024,09/27/2024,Martin Barugel,Yes
+Daniel Julian,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,60 min - Coding Interview,08/27/2024,08/28/2024,Martin Gorostegui,Yes
+Daniel Julian,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,08/19/2024,Martin Gorostegui,Strong Yes
+Mauro Eiroa,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,09/24/2024,Martin Gorostegui,Yes
+Ernesto Borio,Staff  Software Engineer (Full Stack),LZD2418,Engineering - Classy,Hired,1st Round Interview,Hiring Manager Video Interview,07/02/2024,07/03/2024,Martin Orona,Yes
+Rodrigo Ovalle,Staff  Software Engineer (Full Stack),LZD2418,Engineering - Classy,Rejected,1st Round Interview,Hiring Manager Video Interview,07/08/2024,07/08/2024,Martin Orona,Yes
+Cristian Pelegrino,Staff  Software Engineer (Full Stack),LZD2418,Engineering - Classy,Rejected,1st Round Interview,Hiring Manager Video Interview,07/09/2024,07/09/2024,Martin Orona,No
+Guillermo Rojas,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),07/05/2024,07/05/2024,Melisa De Marco,Yes
+Gabriel Fernandez,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),07/18/2024,07/18/2024,Melisa De Marco,No
+Manuel Ponsa,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),07/19/2024,07/19/2024,Melisa De Marco,Yes
+Martin Caravario,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),08/05/2024,08/05/2024,Melisa De Marco,Yes
+Tomás Bilal Iaquinta,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),08/16/2024,08/16/2024,Melisa De Marco,No
+Facundo Manuel Morel,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),09/09/2024,09/09/2024,Melisa De Marco,No
+Santiago Echevarria,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Hired,1st Round Interview,Technical Screen (John Jin - Include coderpad),09/13/2024,09/13/2024,Melisa De Marco,Yes
+Nicolás Fernández,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),09/13/2024,09/13/2024,Melisa De Marco,Yes
+Fernando Collová,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),09/17/2024,09/17/2024,Melisa De Marco,Definitely Not
+Sergio Otsubo,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),09/23/2024,09/23/2024,Melisa De Marco,Definitely Not
+Lucas Mariano Contreras,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,1st Round Interview,Technical Screen (John Jin - Include coderpad),09/24/2024,09/24/2024,Melisa De Marco,Yes
+Sofia Singer,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Rejected,Recruiter Screen,Recruiter Screen,06/28/2024,07/01/2024,Melissa Kuris (Contractor),No
+Candymar Brito,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Rejected,Recruiter Screen,Recruiter Screen,07/03/2024,07/03/2024,Melissa Kuris (Contractor),Yes
+Jonas Millan,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Rejected,Recruiter Screen,Recruiter Screen,07/03/2024,07/08/2024,Melissa Kuris (Contractor),Yes
+Enrico Lamperti,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Rejected,Recruiter Screen,Recruiter Screen,07/05/2024,07/10/2024,Melissa Kuris (Contractor),Yes
+Jonatan Scheines,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Rejected,Recruiter Screen,Recruiter Screen,07/05/2024,07/10/2024,Melissa Kuris (Contractor),No
+Mauricio Azpeitia,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Rejected,Recruiter Screen,Recruiter Screen,07/11/2024,07/12/2024,Melissa Kuris (Contractor),No
+Maykel Oropeza,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Active,Recruiter Screen,Recruiter Screen,07/11/2024,07/12/2024,Melissa Kuris (Contractor),Yes
+Santiago Roman,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Hired,Recruiter Screen,Recruiter Screen (Phone Interview),07/16/2024,07/16/2024,Melissa Kuris (Contractor),Strong Yes
+Maria Taliberti,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/17/2024,07/17/2024,Melissa Kuris (Contractor),Yes
+Facundo Welschen,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/17/2024,07/19/2024,Melissa Kuris (Contractor),Yes
+David Gutierrez Samada,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/19/2024,07/19/2024,Melissa Kuris (Contractor),Definitely Not
+Gabriel Volcovinsky,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/23/2024,07/24/2024,Melissa Kuris (Contractor),Yes
+Axel Meinel von Tannenberg,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/24/2024,07/24/2024,Melissa Kuris (Contractor),No
+Daniel Bianco,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/25/2024,07/26/2024,Melissa Kuris (Contractor),Yes
+Julian Denaro Curutchet,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/26/2024,07/26/2024,Melissa Kuris (Contractor),No Decision
+Leandro Kollenberger,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/26/2024,07/26/2024,Melissa Kuris (Contractor),Yes
+Lucas Dall'Occhio,Senior Developer Experience Engineer (Infrastructure) - LATAM,Evergreen - LatAm Senior Software Eng,TechOps,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/30/2024,07/31/2024,Melissa Kuris (Contractor),Yes
+Santiago Navarro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/30/2024,08/02/2024,Melissa Kuris (Contractor),Yes
+Franco Echevarria,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),07/31/2024,08/02/2024,Melissa Kuris (Contractor),No
+Andrés Gómez,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),08/01/2024,08/01/2024,Melissa Kuris (Contractor),No Decision
+Marcos Khabie,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),08/01/2024,08/01/2024,Melissa Kuris (Contractor),Yes
+Florencia Andres,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),08/07/2024,08/08/2024,Melissa Kuris (Contractor),No
+Veronica Parla,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),08/08/2024,08/12/2024,Melissa Kuris (Contractor),No
+Martín Mármol,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),08/13/2024,08/14/2024,Melissa Kuris (Contractor),Yes
+Gustavo Busto,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),08/14/2024,08/16/2024,Melissa Kuris (Contractor),No
+Manuel Aquino,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),08/14/2024,08/19/2024,Melissa Kuris (Contractor),No
+Tomás Chernov,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),08/15/2024,08/16/2024,Melissa Kuris (Contractor),Yes
+Thomas Matias Becerro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),08/16/2024,08/20/2024,Melissa Kuris (Contractor),No
+Fernando Martín Vidal,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Recruiter Screen,Recruiter Screen (Phone Interview),08/23/2024,08/23/2024,Melissa Kuris (Contractor),Yes
+Ariel Gianatiempo,Senior Frontend Engineer ,JSN9354,Engineering - Classy,Rejected,Hiring Manager Screen,Hiring Manager Screen,07/02/2024,07/03/2024,Michael Collier,Strong Yes
+Darwis Narvaez,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,45 min - Product/TeamFit,07/08/2024,07/08/2024,Moriya Blumenfeld,No
+Lucia Aberastury,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,45 min - Product/TeamFit,08/01/2024,08/01/2024,Moriya Blumenfeld,Strong Yes
+Mauro Cipollone,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,45 min - Product/TeamFit,08/01/2024,08/01/2024,Moriya Blumenfeld,Strong Yes
+Guillermo Rojas,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Algo/CS Fundamentals - (Austin Smith OR Nishtha B) AND Jonathan Santos - Include Coderpad,07/31/2024,08/01/2024,Nishtha Pranab Bhattacharjee,No
+Tomás Bilal Iaquinta,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Algo/CS Fundamentals - (Austin Smith OR Nishtha B) AND Jonathan Santos - Include Coderpad,08/26/2024,08/26/2024,Nishtha Pranab Bhattacharjee,Yes
+Lautaro Mena,Staff  Software Engineer (Full Stack),LZD2418,Engineering - Classy,Rejected,Panel Team Interview,Panel Interview - Patrick,07/05/2024,07/05/2024,Patrick Morrow,No
+Ismael Tisminetzky,Staff  Software Engineer (Full Stack),LZD2418,Engineering - Classy,Rejected,Panel Team Interview,Panel Interview - Patrick,07/05/2024,07/05/2024,Patrick Morrow,No
+Ernesto Borio,Staff  Software Engineer (Full Stack),LZD2418,Engineering - Classy,Hired,Panel Team Interview,Panel Interview - Patrick,07/09/2024,07/09/2024,Patrick Morrow,Yes
+Rodrigo Ovalle,Staff  Software Engineer (Full Stack),LZD2418,Engineering - Classy,Rejected,Panel Team Interview,Panel Interview - Patrick,07/12/2024,07/14/2024,Patrick Morrow,Strong Yes
+Joaquín Garrido,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,07/10/2024,07/11/2024,Pradeep Ramaswamy,No
+Mauro Cipollone,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,07/16/2024,07/29/2024,Pradeep Ramaswamy,Yes
+Pablo Diaz,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,1st Round Interview,Tech Screen,07/19/2024,07/24/2024,Pradeep Ramaswamy,No
+Joaquin Candalaft,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Final Interview,07/24/2024,07/24/2024,Pradeep Ramaswamy,No
+Ivan Nicolás Puszkiel,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Final Interview,08/02/2024,08/05/2024,Pradeep Ramaswamy,No
+Lucas Quinteiro,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Hired,Panel Team Interview,Final Interview,08/08/2024,08/13/2024,Pradeep Ramaswamy,Yes
+Juan Manuel Alvarez,Senior Frontend Engineer (Incubation) LATAM,ZGC2363,Engineering - GoFundMe,Rejected,Panel Team Interview,Final Interview,08/19/2024,08/22/2024,Pradeep Ramaswamy,No
+Pedro Zenone,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Team/Fit Culture w/ Yael,08/27/2024,08/27/2024,Rachel Kare,No
+Matías Miranda,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Team/Fit Culture w/ Yael,09/19/2024,09/19/2024,Rachel Kare,Strong Yes
+Rodrigo Mauriño,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Active,Panel Team Interview,Team/Fit Culture w/ Yael,09/23/2024,09/24/2024,Rachel Kare,Strong Yes
+Jonathan Raad,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,1st Round Interview,HM Screen,08/09/2024,08/12/2024,Rowan Wing,No
+Juan Maximiliano Rodríguez Alvarez,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,1st Round Interview,HM Screen,08/12/2024,08/12/2024,Rowan Wing,No
+Pedro Zenone,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Machine Learning w/ Rowan,08/27/2024,08/27/2024,Rowan Wing,Yes
+Joaquin Tempelsman,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Panel Team Interview,Machine Learning w/ Rowan,08/28/2024,08/29/2024,Rowan Wing,Yes
+Matias Emmanuel Debard,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,1st Round Interview,HM Screen,08/29/2024,08/29/2024,Rowan Wing,No
+Santiago Amena,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Machine Learning w/ Rowan,08/30/2024,08/30/2024,Rowan Wing,Yes
+Santiago Amena,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Machine Learning w/ Rowan,09/04/2024,09/05/2024,Rowan Wing,Yes
+Matías Marenchino,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,1st Round Interview,HM Screen,09/05/2024,09/05/2024,Rowan Wing,Yes
+Pablo Alcain,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,1st Round Interview,HM Screen,09/06/2024,09/06/2024,Rowan Wing,Strong Yes
+Nestor Navarro,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Rejected,1st Round Interview,HM Screen,09/16/2024,09/16/2024,Rowan Wing,Yes
+Gastón Ortiz,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Machine Learning w/ Rowan,09/16/2024,09/16/2024,Rowan Wing,Yes
+Leandro Ferrado,Senior Staff Machine Learning Engineer LATAM,Evergreen - Machine Learning Engineer LATAM,Data,Active,1st Round Interview,HM Screen,09/17/2024,09/22/2024,Rowan Wing,Strong Yes
+Malena Maffei,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Panel Team Interview,Machine Learning w/ Rowan,09/18/2024,09/18/2024,Rowan Wing,Yes
+Matías Miranda,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Machine Learning w/ Rowan,09/23/2024,09/23/2024,Rowan Wing,Yes
+Rodrigo Mauriño,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Active,Panel Team Interview,Machine Learning w/ Rowan,09/27/2024,09/27/2024,Rowan Wing,Yes
+Guillermo Rojas,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Culture/Team Fit - (Jon Tsai OR David Cobey),07/31/2024,07/31/2024,Sean Paxman,Yes
+Tomás Bilal Iaquinta,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Culture/Team Fit - (Jon Tsai OR David Cobey),08/23/2024,08/23/2024,Sean Paxman,Strong Yes
+Nicolás Fernández,Senior Data Engineer LATAM,Evergreen - Senior Data Engineer LATAM,Data,Rejected,Panel Team Interview,Culture/Team Fit - (Jon Tsai OR David Cobey),09/20/2024,09/20/2024,Sean Paxman,Yes
+Lucia Aberastury,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Panel Team Interview,60 min - Coding Interview,08/01/2024,08/01/2024,Vic Porter,Strong Yes
+Lucia Aberastury,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,07/30/2024,Vic Porter,Yes
+Mauro Eiroa,Senior Backend Engineer (Incubation)- LATAM,Evergreen,Engineering - GoFundMe,Rejected,Assessment,Take Home Test,,09/25/2024,Vic Porter,Yes
+Nicolas Hertzulis,Senior Software Engineer (Integrity) - LATAM,Evergreen,TechOps,Rejected,Assessment,Take Home Test,,09/25/2024,Victoria Kieu,Yes
+Darwis Narvaez,Software Engineer (Integrity) - LATAM,BHC3290,TechOps,Active,Panel Team Interview,60 min - Systems Design,09/26/2024,09/26/2024,Xavier Rigau,Yes
+Joaquin Tempelsman,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Panel Team Interview,Team/Fit Culture w/ Yael,08/26/2024,08/26/2024,Yael Stolberg Saam,Yes
+Santiago Amena,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Team/Fit Culture w/ Yael,08/28/2024,08/30/2024,Yael Stolberg Saam,No
+Gastón Ortiz,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Rejected,Panel Team Interview,Team/Fit Culture w/ Yael,09/16/2024,09/16/2024,Yael Stolberg Saam,Strong Yes
+Malena Maffei,Senior Data Scientist LATAM,Evergreen  - Senior Data Scientist LATAM,Data,Hired,Panel Team Interview,Team/Fit Culture w/ Yael,09/17/2024,09/17/2024,Yael Stolberg Saam,Strong Yes
