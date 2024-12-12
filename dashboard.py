@@ -10,7 +10,7 @@ data['Submitted'] = pd.to_datetime(data['Submitted'], errors='coerce')
 data['Month'] = data['Submitted'].dt.to_period('M')  # Extract month-year for grouping
 
 # Title
-st.title("Interview Dashboard")
+st.title("Interview Dashboard Talent Adquisition GFM/Classy")
 
 # Sidebar Filters
 st.sidebar.header("Filters")
