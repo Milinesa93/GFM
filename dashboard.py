@@ -9,18 +9,6 @@ data = pd.read_csv("Scorecards 2023-2024 - Sheet1.csv")
 data['Submitted'] = pd.to_datetime(data['Submitted'], errors='coerce')
 data['Month'] = data['Submitted'].dt.to_period('M')  # Extract month-year for grouping
 
-# Set Streamlit background color
-st.markdown(
-    """
-    <style>
-    .stApp {
-        background-color: black;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
-
 
 # Title
 st.title("Interview Dashboard Talent Adquisition GFM/Classy")
