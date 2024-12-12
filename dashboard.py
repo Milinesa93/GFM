@@ -14,23 +14,13 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-color: green;
+        background-color: black;
     }
     </style>
     """,
     unsafe_allow_html=True
 )
-# Set Streamlit sidebar background color
-st.markdown(
-    """
-    <style>
-    .css-1d391kg {
-        background-color: #006400;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
+
 
 # Title
 st.title("Interview Dashboard Talent Adquisition GFM/Classy")
