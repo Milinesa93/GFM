@@ -150,6 +150,7 @@ fig_outcomes_q_year = px.bar(
     facet_col='Q',
     title="Outcomes by Q and Year",
     color_discrete_map=color_discrete_map
+)
 
 # # Graph: Outcomes by Q and Year
 # fig_outcomes_q_year = px.bar(outcomes_by_q_year, x='Outcome', y='Total', color='Year',
