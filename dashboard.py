@@ -139,7 +139,8 @@ st.dataframe(outcomes_by_q_year)
 
 # Graph: Outcomes by Q and Year
 fig_outcomes_q_year = px.bar(outcomes_by_q_year, x='Outcome', y='Total', color='Year',
-                             facet_col='Q', title="Outcomes by Q and Year")
+                             facet_col='Q', title="Outcomes by Q and Year",
+                             color_discrete_sequence=['#02A95C'])
 st.plotly_chart(fig_outcomes_q_year, use_container_width=True)
 
 # Total interviews by stage and Q-Year
