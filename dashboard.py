@@ -137,9 +137,13 @@ st.subheader("Outcomes by Q and Year")
 outcomes_by_q_year = data.groupby(['Outcome', 'Q', 'Year']).size().reset_index(name='Total')
 st.dataframe(outcomes_by_q_year)
 
-# Graph: Outcomes by Q and Year
+custom_color = '#02A95C'
+color_discrete_map = {year: custom_color for year in outcomes_by_q_year['Year'].unique()}
+
+# Graph: Outcomes by Q and Year with custom color
 fig_outcomes_q_year = px.bar(outcomes_by_q_year, x='Outcome', y='Total', color='Year',
-                             facet_col='Q', title="Outcomes by Q and Year")
+                             facet_col='Q', title="Outcomes by Q and Year",
+                             color_discrete_map=color_discrete_map)
 st.plotly_chart(fig_outcomes_q_year, use_container_width=True)
 
 # Total interviews by stage and Q-Year
