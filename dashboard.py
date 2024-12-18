@@ -118,7 +118,8 @@ st.dataframe(total_by_q_year)
 
 # Graph: Total interviews by Q and Year
 fig_comparison = px.bar(total_by_q_year, x='Q', y='Total Interviews', color='Year',
-                        title="Total Interviews by Q and Year", barmode='group', text='Total Interviews')
+                        title="Total Interviews by Q and Year", barmode='group', text='Total Interviews',color_discrete_sequence=['green'],
+                             color_continuous_scale=px.colors.sequential.Greens)
 fig_comparison.update_traces(textposition='outside')
 st.plotly_chart(fig_comparison, use_container_width=True)
 
@@ -129,7 +130,8 @@ st.dataframe(interviewer_by_q_year)
 
 # Graph: Total interviews by Interviewer and Q-Year
 fig_interviewer_q_year = px.bar(interviewer_by_q_year, x='Interviewer', y='Total Interviews', color='Year',
-                                facet_col='Q', title="Total Interviews by Interviewer, Q and Year")
+                                facet_col='Q', title="Total Interviews by Interviewer, Q and Year",color_discrete_sequence=['green'],
+                             color_continuous_scale=px.colors.sequential.Greens)
 st.plotly_chart(fig_interviewer_q_year, use_container_width=True)
 
 # Total outcomes by Q and Year
@@ -138,15 +140,10 @@ outcomes_by_q_year = data.groupby(['Outcome', 'Q', 'Year']).size().reset_index(n
 st.dataframe(outcomes_by_q_year)
 
 
-
-# Total outcomes by Q and Year
-st.subheader("Outcomes by Q and Year")
-outcomes_by_q_year = data.groupby(['Outcome', 'Q', 'Year']).size().reset_index(name='Total')
-st.dataframe(outcomes_by_q_year)
-
 # Graph: Outcomes by Q and Year
 fig_outcomes_q_year = px.bar(outcomes_by_q_year, x='Outcome', y='Total', color='Year',
-                             facet_col='Q', title="Outcomes by Q and Year", color_discrete_sequence=['green'])
+                             facet_col='Q', title="Outcomes by Q and Year", color_discrete_sequence=['green'],
+                             color_continuous_scale=px.colors.sequential.Greens)
 st.plotly_chart(fig_outcomes_q_year, use_container_width=True)
 
 # Total interviews by stage and Q-Year
