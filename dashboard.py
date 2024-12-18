@@ -139,10 +139,33 @@ st.dataframe(outcomes_by_q_year)
 
 
 
-# Graph: Outcomes by Q and Year
-fig_outcomes_q_year = px.bar(outcomes_by_q_year, x='Outcome', y='Total', color='Year',
-                             facet_col='Q', title="Outcomes by Q and Year", color_discrete_sequence=['green'])
-st.plotly_chart(fig_outcomes_q_year, use_container_width=True)
+# Total outcomes by Q and Year
+st.subheader("Outcomes by Q and Year")
+outcomes_by_q_year = data.groupby(['Outcome', 'Q', 'Year']).size().reset_index(name='Total')
+st.dataframe(outcomes_by_q_year)
+
+# Definir colores personalizados para los años
+color_discrete_map = {
+    2023: '#02A95C',  # Verde principal
+    2024: '#66C285',  # Verde claro
+    2025: '#006D42'   # Verde más oscuro (puedes expandir para más años)
+}
+
+# Crear el gráfico manteniendo la dinámica de colores por Year
+fig_outcomes_q_year = px.bar(
+    outcomes_by_q_year,
+    x='Outcome',
+    y='Total',
+    color='Year',  # Dinámica de colores
+    facet_col='Q',
+    title="Outcomes by Q and Year",
+    color_discrete_map=color_discrete_map  # Aplicar los colores personalizados
+)
+
+# # Graph: Outcomes by Q and Year
+# fig_outcomes_q_year = px.bar(outcomes_by_q_year, x='Outcome', y='Total', color='Year',
+#                              facet_col='Q', title="Outcomes by Q and Year", color_discrete_sequence=['green'])
+# st.plotly_chart(fig_outcomes_q_year, use_container_width=True)
 
 # Total interviews by stage and Q-Year
 st.subheader("Total Interviews by Stage, Q and Year")
